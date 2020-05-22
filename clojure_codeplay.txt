@@ -1,0 +1,31 @@
+Copyright 2017-18 Clojure Programming
+Syed Awase Khirni awasekhirni@gmail.com
+www.sycliq.com www.territorialprescience.com 
+
+installing clojure on windows 
+open powershell in adminstrator mode
+iwr -useb download.clojure.org/install/win-install-1.10.1.536.ps1 | iex
+
+clj -h 
+
+install vscode extensions 
+
+clojure 
+calva
+clojure snippets
+clojure lint 
+clojure warrior 
+clojure tools 
+clojure-lint
+clojure code 
+visual:clojure 
+
+clojure tools 
+1. leiningen - build tool 
+2. typed clojure 
+3. prismatic schema 
+4. test.check 
+5. core.logic 
+6. immutant 
+7.riemann - monitoring 
+8. grafana
