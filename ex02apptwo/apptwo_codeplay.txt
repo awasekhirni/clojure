@@ -1,0 +1,4 @@
+Copyright 2017-18 Clojure Programming
+Syed Awase Khirni awasekhirni@gmail.com
+www.sycliq.com www.territorialprescience.com 
+
